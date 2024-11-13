@@ -1,0 +1,45 @@
+h1 {
+    color: rebeccapurple;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    background: #A8D5E3;
+    text-decoration: underline;
+}   
+
+h2 {
+    color: darkgreen;
+    font-family: Helvetica, sans-serif;
+    background: #A8D5E3;
+}
+
+li {
+    list-style: circle;
+    margin-inline-start: 50px;
+}
+
+p {
+    color: gray;
+    font: Helvetica;
+    text-align: justify;
+    line-height: 150%;
+}
+
+body {
+    font-family: system-ui;
+    background: pink;
+    color: #F2F0EA;
+}
+
+section {
+    background: #F2F0EA;
+    color: gray;
+}
+
+.page-title {
+    background-color: antiquewhite;
+    color:color-mix(in hsl shorter hue, darkgreen 50%, purple 50%)
+}
+#book-info {
+    font-weight: bolder;
+    line-height: 200%;
+}
